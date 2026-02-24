@@ -1,0 +1,12 @@
+{
+	"name": "MedalsHTTP",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/Sruthijha/Tokyo-Olympics-Analytics/raw/refs/heads/main/data/Medals.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
