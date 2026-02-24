@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-dfz",
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "24f37eb3-8505-473f-8047-d92c5d297a8a",
+		"tenantId": "3ded8b1b-070d-4629-82e4-c0b019f46057"
+	}
+}
